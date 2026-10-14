@@ -10,7 +10,7 @@ HTML = """
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>NEXORA | DevOps Deployment Platform</title>
+<title>NEXORA — CI/CD AUTOMATION</title>
 <style>
 :root {
     --bg: #080d19;
